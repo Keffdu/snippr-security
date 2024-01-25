@@ -1,0 +1,43 @@
+
+[
+  {
+    "id": 1,
+    "language": "Python",
+    "code": "58461a066bcf6b895cff4126facdcdeb:475cfc566d9a8eb0ea8d67dd56369bf15200af2fb0908ef60d1737fcde7b04c8"
+  },
+  {
+    "id": 2,
+    "language": "Python",
+    "code": "636aba22fece27a9b73651a3c3cd9125:b164096101d03abe34e0202781cc27798746250bd85384294cb140b8885b33b5"
+  },
+  {
+    "id": 3,
+    "language": "Python",
+    "code": "0f953a9ca82d32883f9476311e13b2e5:09dc2e10aca747dd1ab6628533df07a46cbd4e3a9edd7cffc8357e2661bdcc1223d22e2483c5e961ce679e56fd8c4971efab26d2cb229fababf48c1b680b7cae5affb3ea748e6ad2c0a36d769134bf7b246f5f69afc335299eb4484c117ed9cb56d34f0dacd8c66c969d5758a81556d09d35645bfb17796334cfc6a19ab3f2153faa919df8ec5316b436b551237d1830"
+  },
+  {
+    "id": 4,
+    "language": "JavaScript",
+    "code": "b299660a235a1b04027f252a0371afe2:62b4732384c12986c5e009a62cc343cd3518069b6ca82744969e065a9ffe8cd9"
+  },
+  {
+    "id": 5,
+    "language": "JavaScript",
+    "code": "function multiply(a, b) {\n    return a * b;\n}"
+  },
+  {
+    "id": 6,
+    "language": "JavaScript",
+    "code": "const square = num => num * num;"
+  },
+  {
+    "id": 7,
+    "language": "Java",
+    "code": "public class HelloWorld {\n    public static void main(String[] args) {\n        System.out.println(\"Hello, World!\");\n    }\n}"
+  },
+  {
+    "id": 8,
+    "language": "Java",
+    "code": "public class Rectangle {\n    private int width;\n    private int height;\n\n    public Rectangle(int width, int height) {\n        this.width = width;\n        this.height = height;\n    }\n\n    public int getArea() {\n        return width * height;\n    }\n}"
+  }
+]

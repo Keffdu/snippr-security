@@ -28,16 +28,16 @@
   {
     "id": 6,
     "language": "JavaScript",
-    "code": "99fdb41da2471ca8551e3b907a928b59:d5c25c066af61ee5597ea46304f462cf5d4f38e4bae0dfb1528147e7893d91f6a607c5cacf1041a2e7f6bf355c04ac04"
+    "code": "const square = num => num * num;"
   },
   {
     "id": 7,
     "language": "Java",
-    "code": "b2e0d4a72aa411b1080b7712dc00de65:ce82b322867254b435ba7f0202292e6cbcd111031b94a777e5878b30d05237d273ba913ef8c2bc0ebb0bcae28f286d8028317aae3d8c9a85929f4d1e58f2f079edb82a12845bde89896b2150e88b50d10516e80ae4be20616249e8b2791d5c8429a23809969abd939a32dbf5d7136dc571c0e728a9fb47c2d53b26ccfa679051"
+    "code": "public class HelloWorld {\n    public static void main(String[] args) {\n        System.out.println(\"Hello, World!\");\n    }\n}"
   },
   {
     "id": 8,
     "language": "Java",
-    "code": "9bb61a8df2562f7a5a40b1be693a437d:d43318d9d8e8525a2a625883a1bdd4beb9c823b030f3e392731a2dabbab65481a7abf845bd4ba1b28ecca190d7d8fdcfd92f377d687df70692e827f3474296cc9ef710ca82738188703ad72777ecb3dfecc5c680e65fca12988f8075a3af55f1eddb845245c70517b34cffef9ae85e45427f78a59d810d2ee68b03e030ba806736335ff0689f4af402912ee4a5e7c74c231fe08e8176fd1d9a9ad85b317bdbca186f6c065466b44554638330f0a215c6e836c016c8cebad80a66ea96cba004d502de2576d39c234b61f3bc30beff13a4f51e94259b803fa088360f36568407d19ed9d1d4d701b35e4cb771cbf48619c94d1461e554e5501712a33cfeea1488c0"
+    "code": "public class Rectangle {\n    private int width;\n    private int height;\n\n    public Rectangle(int width, int height) {\n        this.width = width;\n        this.height = height;\n    }\n\n    public int getArea() {\n        return width * height;\n    }\n}"
   }
 ]

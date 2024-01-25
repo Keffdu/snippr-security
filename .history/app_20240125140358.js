@@ -6,7 +6,7 @@ const routes = require('./routes');
 app.use(express.json())
 
 app.use('/users', routes.user)
-app.use('/snippets', routes.snippet);
+app.use('/snippets', routes.cupcake);
 
 // start the server
 app.listen(PORT, () => {

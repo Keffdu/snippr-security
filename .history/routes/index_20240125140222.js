@@ -1,5 +1,5 @@
 const routes = {
-  snippet: require('./snippet'),
+  snippets: require('./snippets'),
   user: require('./user')
 }
 
